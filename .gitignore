@@ -2,3 +2,4 @@ message.py
 venv
 script
 .idea
+__pycache__
